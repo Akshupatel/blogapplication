@@ -52,20 +52,32 @@ This is a basic blog application built using the MERN stack (MongoDB, Express.js
    ```bash
    git clone <repository-url>
 2. Navigate to the project directory:
+    ```bash
     `cd <repository-name>`
-3. Set up the backend:
+4. Set up the backend:
    ● Navigate to the backend folder
+       ```bash
        `cd backend`
    ● Install dependencies:
+
+          ```bash
        `npm install`
    ● Start the backend server
+    
+       ```bash
        `npm start`
-4. Set up the frontend:
+6. Set up the frontend:
    ● Navigate to the frontend folder
+
+        ```bash
        `cd ../frontend`
    ● Install dependencies
+
+         ```bash
        `npm install`
    ● Start the development server
+
+        ```bash
        `npm start`
 
 
